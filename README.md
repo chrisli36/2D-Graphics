@@ -19,12 +19,17 @@ make
 Here are some example images that this engine can draw.
 <table>
   <tr>
-    <th><img src="https://github.com/chrisli36/2D-graphics/blob/master/assets/pa5_cartman.png" width="500"></th>
-    <th><img src="https://github.com/chrisli36/2D-graphics/blob/master/assets/pa5_divided.png" width="500"></th>
-  </tr>
-    <th><img src="https://github.com/chrisli36/2D-graphics/blob/master/assets/pa6_both_mesh.png" width="500"></th>
-    <th><img src="https://github.com/chrisli36/2D-graphics/blob/master/assets/pa6_spock_quad.png" width="500"></th>
-  <tr>
-    
+    <th>
+      <img src="https://github.com/chrisli36/2D-graphics/blob/master/assets/pa5_cartman.png" width="250">
+      <p>A drawing of Cartman drawn with bezier curves</p>
+    </th>
+    <th>
+      <img src="https://github.com/chrisli36/2D-graphics/blob/master/assets/pa6_both_mesh.png" width="250">
+      <p>A circular mesh demonstrating linear gradients</p>
+    </th>
+    <th>
+      <img src="https://github.com/chrisli36/2D-graphics/blob/master/assets/pa6_spock_quad.png" width="250">
+      <p>An image of Spock that's been warped with a shader</p>
+    </th>
   </tr>
 </table>
